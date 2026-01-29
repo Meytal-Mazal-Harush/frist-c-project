@@ -1,0 +1,14 @@
+H:\יד\הרוש מיטל מזל\c#\projct\project\project\bin\Debug\net8.0\project.exe
+H:\יד\הרוש מיטל מזל\c#\projct\project\project\bin\Debug\net8.0\project.deps.json
+H:\יד\הרוש מיטל מזל\c#\projct\project\project\bin\Debug\net8.0\project.runtimeconfig.json
+H:\יד\הרוש מיטל מזל\c#\projct\project\project\bin\Debug\net8.0\project.dll
+H:\יד\הרוש מיטל מזל\c#\projct\project\project\bin\Debug\net8.0\project.pdb
+H:\יד\הרוש מיטל מזל\c#\projct\project\project\obj\Debug\net8.0\project.GeneratedMSBuildEditorConfig.editorconfig
+H:\יד\הרוש מיטל מזל\c#\projct\project\project\obj\Debug\net8.0\project.AssemblyInfoInputs.cache
+H:\יד\הרוש מיטל מזל\c#\projct\project\project\obj\Debug\net8.0\project.AssemblyInfo.cs
+H:\יד\הרוש מיטל מזל\c#\projct\project\project\obj\Debug\net8.0\project.csproj.CoreCompileInputs.cache
+H:\יד\הרוש מיטל מזל\c#\projct\project\project\obj\Debug\net8.0\project.dll
+H:\יד\הרוש מיטל מזל\c#\projct\project\project\obj\Debug\net8.0\refint\project.dll
+H:\יד\הרוש מיטל מזל\c#\projct\project\project\obj\Debug\net8.0\project.pdb
+H:\יד\הרוש מיטל מזל\c#\projct\project\project\obj\Debug\net8.0\project.genruntimeconfig.cache
+H:\יד\הרוש מיטל מזל\c#\projct\project\project\obj\Debug\net8.0\ref\project.dll
